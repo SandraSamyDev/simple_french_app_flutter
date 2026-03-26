@@ -1,8 +1,18 @@
 # french_app
 
 a simple learning french app for kids
+
+
 contains 4 catgories: colors, numbers, animals ,shapes
+
+
 each category has its french word with a sound
+
+
 used audioplayer pack for sound
-ued local pngs for icons
+
+
+ued local pngs for icons are from icon8
+
+
 all made on vs code
